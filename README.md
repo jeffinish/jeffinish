@@ -34,7 +34,7 @@ My name is **Jefferson B. A. Silva**, currently I'm a **PhD candidate** in **Mat
 
 
 
-For quite some time I've been using LaTeX for all my typing needs.  Even though recently I became a Markdown fan, I need to mention that LaTeX is a language that I know a bit.
+<!-- For quite some time I've been using LaTeX for all my typing needs.  Even though recently I became a Markdown fan, I need to mention that LaTeX is a language that I know a bit.
 
 More recently, I started learning Python as a tool for my Data/BI analysis. My main focus using Python is to get used to and improve the workflow of doing preliminary research and preparing databases to import into other software, such as Microsoft Power BI and Google Studio. 
 
